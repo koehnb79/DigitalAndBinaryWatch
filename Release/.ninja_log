@@ -1,0 +1,18 @@
+# ninja log v5
+2	1453	0	src/decimalwatch.o	8ea8b121e55b7ea7
+1461	1980	0	org.example.decimalwatch	141bcd12a203486b
+5	1292	0	src/decimalwatch.o	4eee16ac8cdecb9a
+1298	1865	0	decimalwatch	4e300466e6b75bbf
+6	5948	0	decimalwatch	4e300466e6b75bbf
+1	57	0	clean_sa	952992d831387850
+57	87	0	clean	d59b6dac04fa9b5d
+5	1376	0	src/decimalwatch.o	4eee16ac8cdecb9a
+1377	1847	0	decimalwatch	4e300466e6b75bbf
+0	32	0	clean_sa	952992d831387850
+32	51	0	clean	d59b6dac04fa9b5d
+5	1351	0	src/decimalwatch.o	4eee16ac8cdecb9a
+1352	1821	0	decimalwatch	4e300466e6b75bbf
+0	34	0	clean_sa	952992d831387850
+34	54	0	clean	d59b6dac04fa9b5d
+4	1350	0	src/decimalwatch.o	4eee16ac8cdecb9a
+1351	1849	0	decimalwatch	4e300466e6b75bbf
